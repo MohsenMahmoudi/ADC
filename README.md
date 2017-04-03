@@ -1,1 +1,3 @@
-ADC
+V. V. Ayuyev, A. Thura, N. N. Hlaing, and M. B. Loginova, “The quick dynamic clustering method for mixed-type data,” Autom. Remote Control, vol. 73, no. 12, pp. 2083–2088, Dec. 2012
+
+This paper describes a new approach to high-dimensional mixed-type data clustering with missing values, which combines information on common nearest neighbors with classic between-vectors distances calculated by an original technique. The results are applied to form intersecting clusters for every missing value.
